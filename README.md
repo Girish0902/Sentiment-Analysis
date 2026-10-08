@@ -4,6 +4,8 @@
 
 **An interactive sentiment analysis platform** — text, CSV datasets, and image tone analysis with an inspectable ML pipeline.
 
+**Launched on GitHub Pages:** https://girish0902.github.io/Sentiment-Analysis/
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
@@ -30,6 +32,7 @@ Analyze English reviews, comments and messages; watch stop-word removal, stemmin
 - [Image sentiment analysis](#image-sentiment-analysis)
 - [Model & limitations](#model--limitations)
 - [Project structure](#project-structure)
+- [Live deployment](#live-deployment)
 - [Verification](#verification)
 - [Troubleshooting](#troubleshooting)
 
@@ -209,6 +212,25 @@ The included text model was trained on **150 hand-authored examples** and evalua
 | Macro F1 | 86.0% |
 
 This small synthetic dataset is an **educational demonstration**, not a representative benchmark. Sarcasm, mixed sentiment, unfamiliar domains, complex negation, Hindi/Hinglish, and emojis can fail. Unknown-feature text is flagged as *insufficient signal*.
+
+---
+
+## Live deployment
+
+The project is **live on GitHub Pages** at:
+
+- **https://girish0902.github.io/Sentiment-Analysis/**
+
+The hosted build runs in **browser inference mode** (`VITE_INFERENCE_MODE=browser`), so everything — text analysis, CSV evaluation, and image tone analysis — runs client-side with the bundled model. No server or API key is required; images stay on the device.
+
+To redeploy after changes, rebuild with the Pages base path and publish the output to a `gh-pages` branch whose root contains the build:
+
+```bash
+# build with browser inference + Pages base path
+VITE_INFERENCE_MODE=browser VITE_BASE=/Sentiment-Analysis/ npm run build
+# publish the contents of dist/ at the root of the gh-pages branch
+git push origin gh-pages --force
+```
 
 ---
 
