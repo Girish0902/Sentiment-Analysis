@@ -1,0 +1,748 @@
+[
+ {
+  "text": "This app is fantastic, it never crashes and I love the dark mode!",
+  "tokens": [
+   "app",
+   "fantastic",
+   "never",
+   "crash",
+   "love",
+   "dark",
+   "mode"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.500884886227,
+   "neutral": 0.211188528245,
+   "negative": 0.287926585527
+  }
+ },
+ {
+  "text": "Customer service was incredibly helpful and resolved my issue in minutes.",
+  "tokens": [
+   "customer",
+   "service",
+   "incredib",
+   "helpful",
+   "resolv",
+   "issue",
+   "minute"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.507807971739,
+   "neutral": 0.221917878278,
+   "negative": 0.270274149983
+  }
+ },
+ {
+  "text": "The pasta at Roma Trattoria was delicious and the staff were so friendly.",
+  "tokens": [
+   "pasta",
+   "roma",
+   "trattoria",
+   "deliciou",
+   "staff",
+   "friend"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.530279312585,
+   "neutral": 0.237485996015,
+   "negative": 0.232234691399
+  }
+ },
+ {
+  "text": "My order arrived early and everything was packed perfectly, I'm really impressed.",
+  "tokens": [
+   "order",
+   "arriv",
+   "ear",
+   "everyth",
+   "pack",
+   "perfect",
+   "real",
+   "impres"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.529333113472,
+   "neutral": 0.217151889769,
+   "negative": 0.253514996759
+  }
+ },
+ {
+  "text": "This laptop is fast, lightweight, and the battery easily lasts all day.",
+  "tokens": [
+   "laptop",
+   "fast",
+   "lightweight",
+   "battery",
+   "easi",
+   "last",
+   "day"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.524947226693,
+   "neutral": 0.240844075121,
+   "negative": 0.234208698187
+  }
+ },
+ {
+  "text": "The movie had me on the edge of my seat from start to finish.",
+  "tokens": [
+   "movie",
+   "edge",
+   "seat",
+   "start",
+   "finish"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.504571469202,
+   "neutral": 0.264023922543,
+   "negative": 0.231404608256
+  }
+ },
+ {
+  "text": "I've read this book three times and it keeps getting better each time.",
+  "tokens": [
+   "read",
+   "book",
+   "three",
+   "time",
+   "keep",
+   "get",
+   "better",
+   "time"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.499486937497,
+   "neutral": 0.238409998231,
+   "negative": 0.262103064272
+  }
+ },
+ {
+  "text": "Shipping was quick and you can follow every step at https://example.com, the product matched the description exactly.",
+  "tokens": [
+   "ship",
+   "quick",
+   "follow",
+   "every",
+   "step",
+   "product",
+   "match",
+   "description",
+   "exact"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.552407132933,
+   "neutral": 0.215149229692,
+   "negative": 0.232443637375
+  }
+ },
+ {
+  "text": "I can't believe how good this show is, the writing is sharp and witty.",
+  "tokens": [
+   "not",
+   "believe",
+   "good",
+   "show",
+   "writ",
+   "sharp",
+   "witty"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.484983678361,
+   "neutral": 0.23398669314,
+   "negative": 0.281029628499
+  }
+ },
+ {
+  "text": "It's a great value for the price and I would happily buy it again.",
+  "tokens": [
+   "great",
+   "value",
+   "price",
+   "would",
+   "happi",
+   "buy"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.527276912874,
+   "neutral": 0.224142299786,
+   "negative": 0.24858078734
+  }
+ },
+ {
+  "text": "You won't regret downloading this app, the free version is already generous.",
+  "tokens": [
+   "not",
+   "regret",
+   "download",
+   "app",
+   "free",
+   "version",
+   "already",
+   "generou"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.520257692292,
+   "neutral": 0.212937748432,
+   "negative": 0.266804559276
+  }
+ },
+ {
+  "text": "Great value! I've recommended this service to all of my friends.",
+  "tokens": [
+   "great",
+   "value",
+   "recommend",
+   "service",
+   "friend"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.574005332064,
+   "neutral": 0.2059002491,
+   "negative": 0.220094418836
+  }
+ },
+ {
+  "text": "The meeting starts at nine.",
+  "tokens": [
+   "meet",
+   "start",
+   "nine"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.242227548279,
+   "neutral": 0.536040773665,
+   "negative": 0.221731678056
+  }
+ },
+ {
+  "text": "The package is scheduled to arrive on Tuesday.",
+  "tokens": [
+   "package",
+   "schedul",
+   "arrive",
+   "tuesday"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.24481012713,
+   "neutral": 0.498530465823,
+   "negative": 0.256659407047
+  }
+ },
+ {
+  "text": "The store opens at ten in the morning and closes at eight.",
+  "tokens": [
+   "store",
+   "open",
+   "ten",
+   "morn",
+   "close",
+   "eight"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.217926808855,
+   "neutral": 0.53954247295,
+   "negative": 0.242530718195
+  }
+ },
+ {
+  "text": "Chapter four covers the history of the railway system.",
+  "tokens": [
+   "chapter",
+   "four",
+   "cover",
+   "history",
+   "railway",
+   "system"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.216693708956,
+   "neutral": 0.568525949958,
+   "negative": 0.214780341086
+  }
+ },
+ {
+  "text": "The flight departs from gate B12 and boards at 2:30.",
+  "tokens": [
+   "flight",
+   "depart",
+   "gate",
+   "b",
+   "board"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.261104734336,
+   "neutral": 0.497724140751,
+   "negative": 0.241171124913
+  }
+ },
+ {
+  "text": "Water boils at one hundred degrees Celsius at sea level.",
+  "tokens": [
+   "water",
+   "boil",
+   "one",
+   "hundr",
+   "degree",
+   "celsiu",
+   "sea",
+   "level"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.221762304469,
+   "neutral": 0.547916820197,
+   "negative": 0.230320875334
+  }
+ },
+ {
+  "text": "The train to the airport runs every fifteen minutes.",
+  "tokens": [
+   "train",
+   "airport",
+   "run",
+   "every",
+   "fifteen",
+   "minute"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.260516087813,
+   "neutral": 0.497724920556,
+   "negative": 0.241758991631
+  }
+ },
+ {
+  "text": "The camera on this phone has four lenses and a flash.",
+  "tokens": [
+   "camera",
+   "phone",
+   "four",
+   "lense",
+   "flash"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.237741022849,
+   "neutral": 0.534194490423,
+   "negative": 0.228064486727
+  }
+ },
+ {
+  "text": "Delivery usually takes between two and five business days.",
+  "tokens": [
+   "delivery",
+   "usual",
+   "take",
+   "two",
+   "five",
+   "busi",
+   "day"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.251912352756,
+   "neutral": 0.51435862128,
+   "negative": 0.233729025964
+  }
+ },
+ {
+  "text": "The warranty covers parts for twenty four months.",
+  "tokens": [
+   "warranty",
+   "cover",
+   "part",
+   "twenty",
+   "four",
+   "month"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.203641788225,
+   "neutral": 0.583926802669,
+   "negative": 0.212431409106
+  }
+ },
+ {
+  "text": "You can pay by card, cash, or mobile wallet at the counter.",
+  "tokens": [
+   "pay",
+   "card",
+   "cash",
+   "mobile",
+   "wallet",
+   "counter"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.244558804978,
+   "neutral": 0.496593257036,
+   "negative": 0.258847937986
+  }
+ },
+ {
+  "text": "The reception desk is located on the ground floor.",
+  "tokens": [
+   "reception",
+   "desk",
+   "locat",
+   "ground",
+   "floor"
+  ],
+  "label": "neutral",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.219102461261,
+   "neutral": 0.562038249006,
+   "negative": 0.218859289734
+  }
+ },
+ {
+  "text": "The app crashes every time I open the settings menu, it's unusable.",
+  "tokens": [
+   "app",
+   "crash",
+   "every",
+   "time",
+   "open",
+   "set",
+   "menu",
+   "unusable"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.258768828082,
+   "neutral": 0.26845422284,
+   "negative": 0.472776949077
+  }
+ },
+ {
+  "text": "Customer service put me on hold for an hour and then hung up.",
+  "tokens": [
+   "customer",
+   "service",
+   "put",
+   "hold",
+   "hour",
+   "hung"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.28935766581,
+   "neutral": 0.227533516543,
+   "negative": 0.483108817647
+  }
+ },
+ {
+  "text": "Our meals arrived cold and the order was completely wrong.",
+  "tokens": [
+   "meal",
+   "arriv",
+   "cold",
+   "order",
+   "complete",
+   "wrong"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.271869942151,
+   "neutral": 0.217484279447,
+   "negative": 0.510645778402
+  }
+ },
+ {
+  "text": "The delivery driver left my package in the rain and it was ruined.",
+  "tokens": [
+   "delivery",
+   "driver",
+   "left",
+   "package",
+   "rain",
+   "ruin"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.256208950443,
+   "neutral": 0.23329591049,
+   "negative": 0.510495139067
+  }
+ },
+ {
+  "text": "This laptop overheats constantly and the fan sounds like a jet engine.",
+  "tokens": [
+   "laptop",
+   "overheat",
+   "constant",
+   "fan",
+   "sound",
+   "like",
+   "jet",
+   "engine"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.263262640797,
+   "neutral": 0.241598038211,
+   "negative": 0.495139320992
+  }
+ },
+ {
+  "text": "The film was boring, predictable, and far too long.",
+  "tokens": [
+   "film",
+   "bor",
+   "predictable",
+   "far",
+   "long"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.248598270649,
+   "neutral": 0.239816102806,
+   "negative": 0.511585626546
+  }
+ },
+ {
+  "text": "I've wasted half the book waiting for something interesting to happen.",
+  "tokens": [
+   "was",
+   "half",
+   "book",
+   "wait",
+   "someth",
+   "interest",
+   "happen"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.251200975712,
+   "neutral": 0.228242887578,
+   "negative": 0.520556136709
+  }
+ },
+ {
+  "text": "The flight was delayed six hours with no explanation or compensation.",
+  "tokens": [
+   "flight",
+   "delay",
+   "six",
+   "hour",
+   "no",
+   "explan",
+   "compens"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.248983948114,
+   "neutral": 0.240668700959,
+   "negative": 0.510347350927
+  }
+ },
+ {
+  "text": "I don't recommend this hotel, the walls are paper thin.",
+  "tokens": [
+   "not",
+   "recommend",
+   "hotel",
+   "wall",
+   "paper",
+   "thin"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.255744659541,
+   "neutral": 0.215278944845,
+   "negative": 0.528976395614
+  }
+ },
+ {
+  "text": "This phone's battery dies before noon even with light use.",
+  "tokens": [
+   "phone",
+   "s",
+   "battery",
+   "die",
+   "noon",
+   "even",
+   "light",
+   "use"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.271619024753,
+   "neutral": 0.254077739576,
+   "negative": 0.474303235672
+  }
+ },
+ {
+  "text": "My refund has not arrived after three weeks of waiting.",
+  "tokens": [
+   "refund",
+   "not",
+   "arriv",
+   "three",
+   "week",
+   "wait"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.2441613159,
+   "neutral": 0.219776736206,
+   "negative": 0.536061947893
+  }
+ },
+ {
+  "text": "I'm never flying with this airline again, they lost my luggage twice.",
+  "tokens": [
+   "never",
+   "fly",
+   "airline",
+   "lost",
+   "luggage",
+   "twice"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.236148306555,
+   "neutral": 0.205382787368,
+   "negative": 0.558468906077
+  }
+ },
+ {
+  "text": "Nobody warned me about the hidden fees, so the final bill shocked me.",
+  "tokens": [
+   "nobody",
+   "warn",
+   "hidden",
+   "fee",
+   "final",
+   "bill",
+   "shock"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.246992995881,
+   "neutral": 0.24188249629,
+   "negative": 0.511124507828
+  }
+ },
+ {
+  "text": "zzz qqq vvv jjj www",
+  "tokens": [
+   "zzz",
+   "qqq",
+   "vvv",
+   "jjj",
+   "www"
+  ],
+  "label": "positive",
+  "insufficient": true,
+  "probabilities": {
+   "positive": 0.3333333333,
+   "neutral": 0.3333333333,
+   "negative": 0.3333333333
+  }
+ },
+ {
+  "text": "ok.",
+  "tokens": [
+   "ok"
+  ],
+  "label": "positive",
+  "insufficient": true,
+  "probabilities": {
+   "positive": 0.3333333333,
+   "neutral": 0.3333333333,
+   "negative": 0.3333333333
+  }
+ },
+ {
+  "text": "It's not worth the price, the material feels cheap and scratches easily.",
+  "tokens": [
+   "not",
+   "worth",
+   "price",
+   "material",
+   "feel",
+   "cheap",
+   "scratch",
+   "easi"
+  ],
+  "label": "negative",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.261412309309,
+   "neutral": 0.220982195575,
+   "negative": 0.517605495116
+  }
+ },
+ {
+  "text": "The service was excellent and the staff were helpful.",
+  "tokens": [
+   "service",
+   "excellent",
+   "staff",
+   "helpful"
+  ],
+  "label": "positive",
+  "insufficient": false,
+  "probabilities": {
+   "positive": 0.47472010399,
+   "neutral": 0.256833925825,
+   "negative": 0.268445970185
+  }
+ }
+]
